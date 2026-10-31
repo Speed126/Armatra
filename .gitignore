@@ -1,0 +1,8 @@
+/target/
+/dist/
+/artifacts/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db

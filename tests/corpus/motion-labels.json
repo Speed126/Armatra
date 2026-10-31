@@ -1,0 +1,14 @@
+{
+  "annotation": "Author labels assigned from visible procedural actions before retrieval evaluation; no user study and no large real-motion corpus.",
+  "labels": [
+    {"name":"Walk","family":"locomotion"},
+    {"name":"Fast-walk","family":"locomotion"},
+    {"name":"Slow-walk","family":"locomotion"},
+    {"name":"Wave","family":"wave"},
+    {"name":"Fast-wave","family":"wave"},
+    {"name":"Idle","family":"idle"},
+    {"name":"Sway","family":"idle"},
+    {"name":"Jump","family":"jump"},
+    {"name":"Fast-jump","family":"jump"}
+  ]
+}
